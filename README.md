@@ -9,7 +9,7 @@ An agent skill for Claude and other AI agents that helps open source maintainers
 ## Install
 
 ```
-npx skills add cassandra/oss-community-health
+npx skills add cassandraoid/oss-community-health
 ```
 
 ---
