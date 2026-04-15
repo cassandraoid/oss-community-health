@@ -1,6 +1,6 @@
 # OSS Community Health Agent
 
-An agent skill for Claude and other AI agents that helps open source maintainers understand the human health of their community — not just its activity metrics.
+An agent skill for Claude and other AI agents that helps open source maintainers understand the human health of their community, not just its activity metrics.
 
 **Core thesis:** GitHub tells you what people do. Community platforms tell you how people feel. You need both to understand what's actually happening inside your community.
 
@@ -107,7 +107,7 @@ If you use this skill and notice patterns it misses or insights it gets wrong �
 
 ## About
 
-Designed by [Cassandra](https://github.com/cassandra) — human systems designer, DevRel strategist, and open source contributor. Built on years of thinking about contribution economics, invisible labor, and what makes communities sustain.
+Designed by [Cassandra](https://github.com/cassandraoid) — human systems designer, DevRel strategist, and open source contributor. Built on years of thinking about contribution economics, invisible labor, and what makes communities sustain.
 
 ---
 
