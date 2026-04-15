@@ -6,6 +6,28 @@ An agent skill for Claude and other AI agents that helps open source maintainers
 
 ---
 
+## Prerequisites
+
+You'll need Node.js installed to use the `npx` install command.
+
+**Mac:**
+
+```
+brew install node
+```
+
+**Windows/Linux:** Download from [nodejs.org](https://nodejs.org)
+
+Verify it worked:
+
+```
+node --version
+```
+
+Then proceed with the install below.
+
+---
+
 ## Install
 
 ```
