@@ -1,10 +1,11 @@
 ---
 name: oss-community-health
 description: "Helps open source maintainers understand the human health of their community. Use when someone asks about contributor burnout, maintainer overwhelm, onboarding drop-off, contributor retention, community engagement declining, bus factor risk, invisible labor in open source, Discord or Slack community signals, or designing healthier open source ecosystems."
-version: "0.1"
 license: MIT
+compatibility: Designed for Claude Code and other agents that support the Agent Skills specification
 metadata:
   author: cassandraoid
+  version: "0.1"
 ---
 
 # OSS Community Health Advisor
