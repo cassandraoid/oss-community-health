@@ -30,6 +30,27 @@ Then proceed with the install below.
 
 ## Install
 
+**Claude Code**
+```
+npx skills add cassandraoid/oss-community-health -a claude-code
+```
+
+**Codex CLI**
+```
+npx skills add cassandraoid/oss-community-health -a codex
+```
+
+**Cursor**
+```
+npx skills add cassandraoid/oss-community-health -a cursor
+```
+
+**GitHub Copilot**
+```
+npx skills add cassandraoid/oss-community-health -a copilot
+```
+
+**All agents (auto-detect)**
 ```
 npx skills add cassandraoid/oss-community-health
 ```
