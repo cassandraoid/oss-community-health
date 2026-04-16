@@ -1,0 +1,9 @@
+{
+  "skills": [
+    {
+      "name": "oss-community-health",
+      "description": "Helps open source maintainers understand the human health of their community",
+      "file": "SKILL.md"
+    }
+  ]
+}
